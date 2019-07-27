@@ -3,8 +3,8 @@ this is tiny repo with the resources I used to batch convert Photo CD files into
 
 ## Resources
 
-- [pcdtojpeg](https://sourceforge.net/projects/pcdtojpeg/) Sourceforge project page. Pre-compiled binaries are available.
-- Script "convert.sh"
+- [PCDtojpeg](https://sourceforge.net/projects/pcdtojpeg/) Sourceforge project page. Pre-compiled binaries are available.
+- Script "[convert.sh](https://github.com/mattiasalamanca/pcdtojpeg_script/blob/master/convert.sh)"
 
 ## How to
 
