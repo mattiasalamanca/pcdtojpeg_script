@@ -17,5 +17,5 @@ this is tiny repo with the resources I used to batch convert Photo CD files into
 - Open terminal and navigate to the IMAGE directory, then make the script executable (chmod +x convert.sh)
 - Run the script and check it's output of eventual probles, as Photo CDs are rather old by now
 
-# Thanks to
+## Thanks to
 - the pcdtojpeg project team
